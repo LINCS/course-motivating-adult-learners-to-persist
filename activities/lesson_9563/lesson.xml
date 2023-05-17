@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="362" moduleid="9563" modulename="lesson" contextid="63235">
+  <lesson id="362">
+    <course>289</course>
+    <name>Lesson: Overview of 11 Strategies</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/MicrosoftTeams-image%20%2810%29.png" alt="" width="400" height="2736" role="presentation" class="img-responsive atto_image_button_text-bottom" style="font-size: 1.7rem;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1676510892</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1860">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1861</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676507554</timecreated>
+        <timemodified>1680204160</timemodified>
+        <title>Lesson Start</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;Before you begin the course, complete the following lesson that provides an overview of the 11 strategies to support student motivation and persistence. Once you complete the lesson, you will be directed to complete a self-assessment of your current knowledge and practices using motivation and persistence strategies.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Descriptions of each principle are taken from Chapter 3 (pp. 13–24) in Improving Adult Literacy: Supporting
+Learning and Motivation. They are reprinted with permission from the National Academy of Sciences, Courtesy of
+the National Academies Press, Washington, DC. For additional information, see the Extended Learning
+Opportunity in this course unit, which contains the entire chapter.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Please note, when asked if you want to pick up where you left off, be sure to click "yes" unless you intend to start over. You must reach the end of the lesson and click "Finish" to complete this activity.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3921">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676507554</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1861">
+        <prevpageid>1860</prevpageid>
+        <nextpageid>1868</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508399</timecreated>
+        <timemodified>1676510754</timemodified>
+        <title>Building Learners’ Self-Efficacy</title>
+        <contents>&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: 1.7rem;"&gt;The first six strategies are specific to building learners' self-efficacy. Click "continue" to learn more.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3934">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508399</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3935">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508399</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1868">
+        <prevpageid>1861</prevpageid>
+        <nextpageid>1862</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676507775</timecreated>
+        <timemodified>1676507933</timemodified>
+        <title>1. Setting appropriate goals</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Goals are extremely important in motivating and directing behavior. Adults often have very
+general ideas about why they need or want to learn to read and write. To motivate persistence
+and success, instructors need to help learners break down their learning goals into short-term and
+long-term literacy goals. If learners set near-term goals, not just distant ones, they are much more
+likely to experience success, which enhances self-efficacy. Supporting learners’ awareness of
+progress week-by-week can motivate persistence as learners reach their near-term goals and
+recognize that these are the path to reaching long-term goals.
+There are also different types of goals, the choice of which can influence learning outcomes:&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;When a learner holds a mastery goal, he or she engages with a task in order to improve
+ability; the goal is to truly master the task. When students hold this type of goal, the point
+of comparison is the student him- or herself. That is, the student compares his or her
+present performance to past performance to gauge improvement.&amp;nbsp;&lt;/li&gt;&lt;li&gt;When a learner holds a performance-approach goal, the goal is to demonstrate his or
+her ability relative to others; the students compare their performance to that of other
+students, with the goal of demonstrating greater competence.&amp;nbsp;&lt;/li&gt;&lt;li&gt;When a learner holds a performance-avoidance goal, the student’s goal is to avoid
+appearing incompetent or “dumb.” Such students would want to avoid appearing to
+others that they have poor literacy skills.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;span style="font-size: 1.7rem;"&gt;Learning environments can be structured in ways that encourage learners to set different types of
+goals. If a teacher emphasizes the importance of mastering literacy skills, learners are likely to
+adopt mastery goals; if a teacher emphasizes relative ability (i.e., the teacher inadvertently makes
+comments that position adult learners as “good” or “bad” readers), learners are likely to adopt
+performance goals.&amp;nbsp;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;Adopting mastery goals predicts positive outcomes that include persisting at tasks, choosing to
+engage in similar activities in the future, and using effective cognitive and self-regulatory
+strategies. Performance-avoidance goals consistently predict negative outcomes, including&amp;nbsp;increased use of self-handicapping strategies and poor achievement. Results for performanceapproach goals are mixed, with some studies finding that they are related to positive outcomes
+and others finding the opposite. (p. 13-14)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3922">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676507775</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3923">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676507775</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1863">
+        <prevpageid>1862</prevpageid>
+        <nextpageid>1864</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508014</timecreated>
+        <timemodified>0</timemodified>
+        <title>3. Assisting learners in managing errors</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Students of all ages can find errors demotivating. Research suggests the benefits of error
+management—that is, leading adults to expect errors as a part of the learning process and then
+providing strategies for coping with errors and learning from them. Instructors need to know how
+to recognize and correct ingrained negative attributions by providing feedback that stresses the
+processes of learning, such as the importance of using strategies, monitoring one’s own
+understanding, and engaging in sustained effort even in the face of challenges. (p.15)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3926">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508014</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3927">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508014</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1864">
+        <prevpageid>1863</prevpageid>
+        <nextpageid>1865</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508070</timecreated>
+        <timemodified>0</timemodified>
+        <title>4. Reframing explanations in ways that motivate persistence</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Experiences with learning can trigger questions such as: Why did I do badly? (after receiving a
+low score on an evaluation). Why can’t I understand this? (after failing to comprehend a
+paragraph). Why can’t I write sentences that make sense? (after being unable to write a coherent
+short story). The “attributions” students form in response to such questions—in other words, how
+they explain the reasons for their successes and failures to themselves—will either motivate them
+to persist or discourage them from doing so.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;A learner who is experiencing difficulty comprehending a text, for example, will be more likely
+to persist if he or she attributes the difficulty to something external (for example, a boring text),
+something uncontrollable (being ill), or something unstable (feeling depressed that day). A&amp;nbsp;learner who experiences success at a task will be more likely to persist if progress is attributed to
+something internal (for example, personal enjoyment of reading), controllable (practice,
+spending a lot of time working on the text), and stable (a belief in one’s ability as a reader).&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;When a student does not experience success—for example, if he or she is unable to make sense
+of the overarching point of a short story—instructors can help the learner employ reading
+strategies that can elucidate the story’s meaning and also provide a different frame for thinking
+about the reasons for the learner’s difficulties and errors. With repeated reframing, instructors
+can help learners develop attributional styles that allow learners to employ strategies and skills
+that are more likely to lead them to persist. (p.15)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3928">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508070</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3929">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508070</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1865">
+        <prevpageid>1864</prevpageid>
+        <nextpageid>1866</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508099</timecreated>
+        <timemodified>0</timemodified>
+        <title>5. Modeling literacy and learning strategies</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Vicarious experience—such as observing others successfully perform specific tasks or use
+specific strategies—is another way to frame learners’ attitudes toward learning and increase selfefficacy. For instance, instructors or students might model literacy strategies or other learning
+behaviors. (p.15)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3930">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508099</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3931">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508099</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1866">
+        <prevpageid>1865</prevpageid>
+        <nextpageid>1867</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508180</timecreated>
+        <timemodified>0</timemodified>
+        <title>6. Using assessments appropriately</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;While assessments are important, the ways in which they are administered and the feedback
+presented can affect learners’ motivation in either positive or negative ways. Stressing the
+importance of assessments and tests can lead students to adopt performance goals—goals in
+which a student compares his or her progress to that of others. These goals are related to some
+problematic academic outcomes, particularly when students are preoccupied with the goal of
+avoiding appearing incompetent. When students are focused on how they compare to others
+academically, they may use less-efficient cognitive strategies and engage in various self-handicapping behaviors.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;To avoid demotivating students, instructors should:&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present the results of assessments privately. Presenting assessment results in a public
+manner is conducive to students adopting performance rather than mastery goals.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Encourage students to focus on effort and improvement whenever possible. Motivation is
+strengthened if students feel they can improve if they work hard at a task. Intrinsic
+motivation is enhanced when students are rewarded on the basis of their improvement
+rather than on absolute scores.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Allow the student to take an assessment again if he or she does not receive an acceptable
+score. (p. 16)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3932">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508180</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3933">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508180</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1867">
+        <prevpageid>1866</prevpageid>
+        <nextpageid>1870</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508755</timecreated>
+        <timemodified>1676510766</timemodified>
+        <title>Using and Inspiring Learners’ Interests</title>
+        <contents>&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: 1.7rem;"&gt;The next three strategies are specific to using and inspiring learners' interests.&amp;nbsp;Click "continue" to learn more.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3938">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3939">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1870">
+        <prevpageid>1867</prevpageid>
+        <nextpageid>1869</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508519</timecreated>
+        <timemodified>0</timemodified>
+        <title>7. Finding value</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;A person may persist with a task that is not initially intrinsically interesting if it is valued. Value
+refers to learners’ beliefs about whether a domain or task is enjoyable (intrinsically interesting),
+useful, important to identity or sense of self, and worth investing time in.
+These dimensions work together; a less-than-skilled reader may nevertheless approach a difficult
+reading task with strong motivation to persist if the task is interesting, useful, or important to his
+or her identity. One study, for example, illustrated the value that adolescent readers attached to
+various texts because those texts taught them important life lessons or provided information
+necessary for fitting in with a group or social network.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Although valuing an activity is important for learning in the context of compulsory education, it
+is vital for persistence in adult literacy education. If adult learners develop and maintain positive
+values about the literacy activities they engage in—if they believe that the courses are useful,
+important, interesting, and worth their time—they will be more likely to persist with learning.
+More research is needed, however, on the approaches instructors can use to help adult and
+adolescent learners develop these values over time in relation to language and literacy activities
+they may not already value. (19-2)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3936">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508519</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3937">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508519</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1862">
+        <prevpageid>1868</prevpageid>
+        <nextpageid>1863</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676507913</timecreated>
+        <timemodified>0</timemodified>
+        <title>2. Offering feedback to build a growth mindset</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Self-efficacy requires having fairly accurate perceptions of one’s current competencies.
+Overestimating one’s ability to read and understand a text, for instance, will not lead to engaging
+in the behaviors needed to develop new skills. Underestimating one’s abilities may lead to
+coping or hiding behaviors that prevent the learner from making use of his or her existing skills.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;In addition, learners can have certain beliefs about intelligence that can affect their self-efficacy
+and as a result their personal goals for learning. Students who hold an incremental view of
+intelligence believe that intelligence is malleable and that it is possible to learn just about
+anything. These students are likely to adopt mastery goals. In contrast, students who believe that
+intelligence is fixed so that a person cannot effectively learn more than they are naturally capable
+of learning are likely to adopt performance goals.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;It appears possible, however, to alter beliefs about intelligence. For instance, feedback that
+focuses a learner’s attention on how learning happens—for example, on the use of strategies,
+effort, practice, and the general changeable and controllable nature of learning— can foster more
+incremental views of ability with positive outcomes. (p.14)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3924">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676507913</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3925">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676507913</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1871">
+        <prevpageid>1869</prevpageid>
+        <nextpageid>1872</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508959</timecreated>
+        <timemodified>0</timemodified>
+        <title>9. Encouraging collaboration and cooperation</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Cooperation or collaboration in the classroom can motivate learners to persist and attain their
+goals. Learning environments and experiences that help establish positive relations with others
+while developing competence in particular skills also shape engagement, motivation, and
+persistence.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Collaborative arrangements in which students work together to plan, draft, revise, or edit their
+texts can have a positive impact on the quality of their writing, but students need clear direction
+about what they are expected to do as they work with others. Opportunities to collaborate during
+reading and writing also can increase motivation, although more needs to be known about how to
+structure collaborations effectively.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Adults may also become more engaged if reading and writing activities provide opportunities to
+work with other adults to solve real-world problems. In addition to increasing the usefulness of
+literacy-based tasks and the sense of autonomy and control people have over their lives, these
+collective literacy activities may provide them with the community support needed to persist in
+developing their literacy even in the face of challenges. (p. 21-22)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3942">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508959</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3943">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508959</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1869">
+        <prevpageid>1870</prevpageid>
+        <nextpageid>1871</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676508870</timecreated>
+        <timemodified>1676509563</timemodified>
+        <title>8. Providing choice and autonomy</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;When learners believe that they have some control over their own learning, they are more likely
+to take on challenges and to persist with difficult tasks, compared with students who perceive
+that they have little control over their learning outcomes. A controlling or pressured climate in a
+classroom, home, or work group is known to decrease motivation to perform a variety of
+behaviors.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Providing people with choice about what activities to do and how to do them can increase
+intrinsic motivation, provided that the number of options offered is not overwhelming.
+Experiencing higher levels of perceived self-control predicts numerous positive outcomes,
+among them engagement in school and academic achievement. The amount of autonomy a
+learner desires, however, appears to depend on how competent and self-efficacious he or she
+feels. If the task is new or especially challenging, an individual may appreciate having little
+autonomy.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Building a sense of learner autonomy and control does not mean abandoning adults to learn on
+their own; there are a number of ways that instructors can give their students autonomy without
+sacrificing best practices such as providing specific feedback, offering explicit and clear
+modeling of strategies, and monitoring progress, all of which develop proficiencies and so
+support greater autonomy.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Providing a rationale for a task or behavior also can support perceived autonomy. For instance,
+one study found that providing a meaningful rationale for doing an uninteresting activity,
+acknowledging that participants might not want to do the activity, and minimizing the use of
+controlling language led to increased reports of autonomy. (p. 18- 19)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3940">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508870</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3941">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676508870</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1872">
+        <prevpageid>1871</prevpageid>
+        <nextpageid>1873</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676509321</timecreated>
+        <timemodified>1676510790</timemodified>
+        <title>Additional Considerations</title>
+        <contents>&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: 1.7rem;"&gt;The last two strategies provide important additional&amp;nbsp;consideration for student motivation and persistence. These two strategies hold equal weight as the previous nine.&amp;nbsp;Click "continue" to learn more.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3944">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509321</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3945">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509321</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1873">
+        <prevpageid>1872</prevpageid>
+        <nextpageid>1874</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676509385</timecreated>
+        <timemodified>0</timemodified>
+        <title>10. Overcoming systemic barriers to persistence</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;When designing adult literacy instruction, it is important to consider the contexts of adults’ lives
+and how to remove demotivating barriers to access and practice. For adults to enroll and continue
+participating in adult literacy courses, they must perceive the courses as being important, useful,
+interesting, and worth the investment of time. They must also believe they can handle the short-term consequences of spending time improving their literacy, which may include temporarily
+having less time available for work and family.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Effective functioning in adulthood requires selectively allocating effort toward the most
+important and pressing goals in accord with the opportunities available. People allocate their
+cognitive, emotional, and physical resources to prioritize important goals, balancing
+responsibilities across work, family, community, and so on. In this light, lack of persistence in
+adult literacy instruction, while appearing to be a poor choice, actually may be a self-regulated,
+adaptive response to the constraints of competing demands and the need for trade-offs in life.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;It should not be surprising, then, that the need for child care is a serious practical issue that
+affects participation and persistence. It is likely that programs to increase the availability of child&amp;nbsp;care, particularly at no cost or at reduced rates, would facilitate the participation of many adults.
+(p. 22-23)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3946">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509385</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3947">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509385</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Continue</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1874">
+        <prevpageid>1873</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1676509452</timecreated>
+        <timemodified>1676509663</timemodified>
+        <title>11. Addressing negative effects of stereotypes</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Stereotype threat is an individual’s concern that others in a group will judge her or him by a
+dominant stereotype. Stereotype threat is strong enough to disrupt performance and is typically
+heightened in situations in which individuals who might be connected with such a stereotype
+(e.g., “women are not good at mathematics”) represent only a small number in the overall group.
+In one study, for example, black college students who had demonstrated high capability in other
+testing situations performed poorly when told that their intelligence was being measured.
+Stereotype threats have also been documented among members of other racial and ethnic groups,
+as well as with respect to gender and cultural differences.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;These findings have important implications for any adult literacy program or course in which
+groups come together from a variety of racial, cultural, and linguistic backgrounds, as well as for
+mixed-gender groups. Indeed, stereotype threat can compromise learning in adult populations
+because it can be triggered by age. In Western culture, education is most strongly associated with
+childhood and early adulthood, and adult participation in formal instruction may be perceived as
+not happening at the “appropriate” time.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Awareness of stereotypes may divert attention that is needed to perform well on a task.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;When stereotypes are activated—in other words, when the learner is made aware of features of
+the stereotype that are relevant to him or her—working memory resources needed for effective
+performance may be diminished by distracting thoughts. Stereotype threat can be activated by
+seemingly innocuous features of the learning situation, like reporting one’s gender on a
+mathematics test.&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Because worries about whether one will confirm a stereotype to some extent involve inner
+speech, interventions that steer learners toward verbalizations that help them to focus on the task
+at hand have been found to reduce stereotype threat. (p. 23)&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3948">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509452</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3949">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1676509452</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

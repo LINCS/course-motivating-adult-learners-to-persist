@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2201" moduleid="9564" modulename="page" contextid="63236">
+  <page id="2201">
+    <name>Activity 1: Self-Assessment</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Complete the following self-assessment of your current knowledge, and practices in using motivation and persistence strategies.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Complete the following self-assessment of your current knowledge and practices in using motivation and persistence strategies. For help completing this self-assessment, read&amp;nbsp;&lt;u&gt;&lt;a href="$@LESSONVIEWBYID*9563@$" target="_blank"&gt;Descriptions of 11 Strategies.&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;After, download the handout,&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2023-02/LINCS-SlfrflctnActyWrkbk-MALP-508.pdf" target="_blank"&gt;Self-Reflection and Activity Workbook&lt;/a&gt;&lt;/span&gt;&lt;span&gt;, and complete Activity 1:&amp;nbsp; Course Overview Self-Assessment. You will use this workbook throughout the course.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Be sure to read about any strategies for which you scored yourself a 1 or a 2 in the self-assessment.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1676510645</timemodified>
+  </page>
+</activity>

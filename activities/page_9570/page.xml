@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2202" moduleid="9570" modulename="page" contextid="63242">
+  <page id="2202">
+    <name>Post-Course Self-Assessment</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;span&gt;Now, we'll take a moment to reflect by comparing
+what you know now with your knowledge before you started the course.&lt;/span&gt;&lt;/h5&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Using your &lt;a href="https://lincs.ed.gov/sites/default/files/2023-02/LINCS-SlfrflctnActyWrkbk-MALP-508.pdf" target="_blank"&gt;Self-Reflection
+and Activity Workbook&lt;/a&gt;,&amp;nbsp;return to Activity 1: Pre-Course Self-Assessment you did at the beginning of the course. &lt;/p&gt;
+
+&lt;p&gt;In the “Post” column, enter a score to indicate the degree to which your understanding may have changed. You will use this information to plan your next steps.&lt;/p&gt;
+
+&lt;p&gt;Review the pre-/post-assessment scores on your self-assessment, together with the notes you took in your &lt;a href="https://lincs.ed.gov/sites/default/files/2023-02/LINCS-SlfrflctnActyWrkbk-MALP-508.pdf" target="_blank"&gt;Self-Reflection and Activity Workbook&lt;/a&gt;. Consider, which principles stand out as areas you want to learn more about.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1676505307</timemodified>
+  </page>
+</activity>

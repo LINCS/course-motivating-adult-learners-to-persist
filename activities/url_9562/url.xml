@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="302" moduleid="9562" modulename="url" contextid="63234">
+  <url id="302">
+    <name>Self-Reflection and Activity Workbook</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Throughout
+this course you will utilize the &lt;em&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2023-02/LINCS-SlfrflctnActyWrkbk-MALP-508.pdf" target="_blank"&gt;Self-Reflection
+and Activity Workbook&lt;/a&gt;&lt;/em&gt; to reflect on specific topics and complete activities. Download the handout and have it available as you complete the
+course. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://lincs.ed.gov/sites/default/files/2023-02/LINCS-SlfrflctnActyWrkbk-MALP-508.pdf</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1676471756</timemodified>
+  </url>
+</activity>
